@@ -1,1 +1,1 @@
-Kaggle & DataCamp certificates (PDFs)
+Kaggle certificates (PDFs)
