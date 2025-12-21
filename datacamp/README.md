@@ -17,3 +17,9 @@ https://www.datacamp.com/completed/statement-of-accomplishment/course/fd17e005ba
 
 ### 🔹 5. Cleaning Data in Python
 (https://www.datacamp.com/completed/statement-of-accomplishment/course/576e03a91abd0e878438403c1544ea6e2c34da00)
+
+### 🔹 6. Introduction to Git
+(https://www.datacamp.com/completed/statement-of-accomplishment/course/add559c3e877203d3df28b3b3a091aabdcd6f4cd)
+
+### 🔹 7. Intermediate Git
+(https://www.datacamp.com/completed/statement-of-accomplishment/course/d1a0a60822c6b4e3493191b34832a1df3cd1719d)
